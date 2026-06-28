@@ -1,0 +1,5 @@
+{
+"NR-)": "{PLOVER:TOGGLE_DICT:!dicts/main.json,!_arc/ja/main.json,!_arc/ja/base.json,!_arc/ja/temp.json}}",
+"MAT)": "{PLOVER:TOGGLE_DICT:!special/latex.json,!dicts/main.json,!dicts/special.json}",
+"DN-R)": "{PLOVER:TOGGLE_DICT:!dicts/main.json,!dicts/do.json,!dicts/special.json}"
+}
